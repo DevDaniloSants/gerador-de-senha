@@ -1,7 +1,7 @@
 # Gerador de senhas
 
 <p align="center">
-  <img src="https://ibb.co/XkxLsj5" alt="Imagem projeto">
+  <img src="https://i.ibb.co/4gRtTKS/he.png" alt="Imagem projeto">
 </p>
 
 > Projeto de um gerador de senhas feito para treinamento de hooks do react.
